@@ -77,6 +77,8 @@ Elbow method was used and was ploted using matplotlib
 The graph above shows that the best K is 3 which was used to build the clustering algorithm
 
 ## Result and Deduction
+![plot](https://github.com/elugabriel/covid-19-Analysis/blob/main/Screenshot%20from%202022-12-06%2004-54-32.png)
+
 After visualizing the cluster using scatter plot, it was discovered that some states shared the same / similar covid-19 instances. some of these states are not given much attention. 
 There are three main cluster or groups as deplicted by the chart.
 
