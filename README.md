@@ -72,6 +72,8 @@ The next stage in the analysis is checking for missing data and since the data i
 The next task in the analysis was to determine the right number of K (cluster) which is a crucial part of clustering algorithm.
 Elbow method was used and was ploted using matplotlib
 
+![plot](https://github.com/elugabriel/covid-19-Analysis/blob/main/Screenshot%20from%202022-12-06%2004-19-36.png)
+
 The graph above shows that the best K is 3 which was used to build the clustering algorithm
 
 ## Result and Deduction
